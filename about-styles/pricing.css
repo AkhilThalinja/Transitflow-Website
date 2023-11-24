@@ -1,0 +1,188 @@
+.Pricing {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 5vh;
+}
+
+
+.section5-body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 2rem;
+}
+
+
+
+#tag-section5 {
+    color: #000000;
+    background: rgba(232, 232, 232, 0.50);
+    width: 3vw;
+    height: 1vw;
+    font-size: 1.6vh;
+    text-align: center;
+    border-style: solid;
+    border-width: 3px;
+    border-right: 0;
+    border-top: 0;
+    border-bottom: 0;
+    border-left-color: #ffb629;
+    font-family: Rubik;
+    font-weight: 400;
+    margin-bottom: 0.6vh;
+
+
+}
+
+#title-section5 {
+    height: 1vw;
+    font-size: 2.8rem;
+    color: #000000;
+    font-family: Rubik;
+    font-weight: 900;
+    font-family: Rubik;
+    font-style: normal;
+    font-weight: 600;
+    margin-bottom: 3%;
+
+}
+
+
+.three-different-prices {
+    display: flex;
+    flex-direction: row;
+    gap: 2rem;
+    margin-top: 3vh;
+    margin-bottom: 7vh;
+}
+
+
+.first-price {
+    width: 35rem;
+    height: auto;
+    background: #F4F4F4;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    gap: 5vh;
+}
+
+
+.total-price {
+    display: flex;
+    flex-direction: row;
+}
+
+.what-you-get {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 0.5rem;
+    border-bottom: solid rgb(211, 211, 211) 1px;
+}
+
+.price-title {
+    color: #1C1F35;
+    text-align: center;
+    font-family: Rubik;
+    font-size: 3rem;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    margin-top: 5vh;
+}
+
+.price {
+    color: #1C1F35;
+    text-align: center;
+    font-family: Rubik;
+    font-size: 6rem;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+.total-period {
+    color: #1C1F35;
+    font-family: Rubik;
+    font-size: 2rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-top: 3.5rem;
+}
+
+.you-get {
+    color: #1C1F35;
+    text-align: center;
+    font-family: Rubik;
+    font-size: 1.5rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.what-you-get-here {
+    border-top: solid rgb(211, 211, 211) 1px;
+    width: 15vw;
+    padding-top: 3vh;
+}
+
+.what-you-get-here- {
+    border-top: solid rgb(211, 211, 211) 1px;
+    width: 15vw;
+    padding-top: 3vh;
+    padding-bottom: 1vh;
+}
+
+.button-choose-plan {
+    background: url(../../images/morework-button.svg);
+    color: #ffffff;
+    font-family: Krub;
+    font-size: 1.5vh;
+    font-style: normal;
+    font-weight: 600;
+    border: 0;
+    width: 17.5rem;
+    height: 6vh;
+    margin-bottom: 3rem;
+}
+
+
+.second-price {
+    width: 35rem;
+    height: auto;
+    background: #091242;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    gap: 5vh;
+}
+
+.third-price {
+    width: 35rem;
+    height: auto;
+    background: #F4F4F4;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    gap: 5vh;
+}
+
+
+.button-choose-plan2 {
+    background: url(../../images/chooseplan.svg);
+    color: #000000;
+    font-family: Krub;
+    font-size: 1.5vh;
+    font-style: normal;
+    font-weight: 600;
+    border: 0;
+    width: 17.5rem;
+    height: 6vh;
+    margin-bottom: 3rem;
+}

@@ -1,0 +1,120 @@
+.section2 {
+    height: auto;
+    background: #F4F4F4;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 10rem;
+}
+
+.our-logistics-services {
+    width: 60%;
+    height: 80%;
+    background: #F4F4F4;
+}
+
+
+.about-text-section2 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 5rem;
+}
+
+#tag-section2 {
+    color: #000000;
+    background: rgba(232, 232, 232, 0.50);
+    width: 5vw;
+    font-size: 1.5vh;
+    text-align: center;
+    border-style: solid;
+    border-width: 3px;
+    border-right: 0;
+    border-top: 0;
+    border-bottom: 0;
+    border-left-color: #ffb629;
+    color: #1C1F35;
+    font-family: Rubik;
+    font-weight: 400;
+}
+
+#title-section2 {
+    width: auto;
+    font-size: 1.5vw;
+    color: #1C1F35;
+    font-family: Rubik;
+    font-weight: 900;
+    font-family: Rubik;
+    font-style: normal;
+    font-weight: 600;
+}
+
+
+
+.sec2-icons-box {
+    display: grid;
+    grid-template-rows: repeat(2, 0.3fr);
+    padding-bottom: 5%;
+    row-gap: 2rem;
+}
+
+.sec2-icons-top-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 0.3fr);
+    column-gap: 5vw;
+}
+
+
+.sec2-icon {
+    display: grid;
+    grid-template-rows: 1.5fr 0.5fr 1.5fr;
+    row-gap: 1vh;
+}
+
+.section2-service {
+    color: #1C1F35;
+    font-family: Rubik;
+    font-size: 2rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.section2-description {
+    color: #666C89;
+    font-family: Krub;
+    font-size: 1.4rem;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 151.523%;
+}
+
+.section2-icons {
+    width: 23%;
+}
+
+.section2-iconss {
+    width: 23%;
+}
+
+.sec2-icons-bottom-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 0.5fr);
+    column-gap: 5vw;
+
+}
+
+
+.section2-button {
+    background: url(../../images/morework-button.svg);
+    color: #ffffff;
+    font-family: Krub;
+    font-size: 1.5vh;
+    font-style: normal;
+    font-weight: 600;
+    border: 0;
+    width: 17.5rem;
+    height: 6vh;
+    margin-bottom: 5rem;
+}

@@ -1,0 +1,16 @@
+.section7 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 50vh;
+}
+
+.client-logo {
+    display: flex;
+    width: auto;
+    border: solid 1px black;
+}
+
+.studio-green-img,.nortowhite-img{
+    border-right:solid 1px black;
+}

@@ -1,0 +1,111 @@
+.wt-we-do {
+    position: relative;
+    min-width: 100%;
+    min-height: 50vh;
+}
+
+#wt-we-do-grid {
+    position: absolute;
+    top: 8rem;
+    left: 17vw;
+}
+
+.wt-we-do-body {
+    position: absolute;
+    left: 32vw;
+    top: 7rem;
+    min-width: 50vh;
+}
+
+.wt-we-do-container {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: repeat(2, 1fr);
+    row-gap: 2vw;
+    width: 58vw;
+    min-width: 50vw;
+    padding-right: 5rem;
+
+}
+
+.wt-we-do-item {
+    width: 30vw;
+    display: grid;
+    margin-right: 2rem;
+    grid-template-columns: 0.25fr 1fr;
+    grid-template-rows: 0.7fr 1fr;
+
+
+}
+
+.wt-we-do-item-one {
+    grid-row-start: 1;
+    grid-row-end: 3;
+    border-style: solid;
+    border-width: 1px;
+    border-left: 0;
+    border-top: 0;
+    border-bottom: 0;
+    margin-right: 2rem;
+    border-right-color: #D8D8D8;
+    width: 3vw;
+    min-width: 3vw;
+
+}
+
+#flight-icon {
+    padding-right: 1rem;
+
+}
+
+.main-text {
+    color: #1C1F35;
+    font-family: Rubik;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    width: 30rem;
+
+}
+
+.small-text {
+    color: #666C89;
+    font-family: Krub;
+    font-size: 1.4rem;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 151.523%;
+    width: 25rem;
+    min-width: 25rem;
+
+}
+
+
+#wt-we-do-tag {
+    color: #000000;
+    background: rgba(232, 232, 232, 0.50);
+    width: 4.5vw;
+    font-size: 1.3vh;
+    text-align: center;
+    border-style: solid;
+    border-width: 3px;
+    border-right: 0;
+    border-top: 0;
+    border-bottom: 0;
+    border-left-color: #ffb629;
+    color: #1C1F35;
+    font-family: Rubik;
+    font-weight: 400;
+
+
+}
+
+#wt-we-do-solns {
+    width: 15vw;
+    font-size: 3vh;
+    color: #1C1F35;
+    font-family: Rubik;
+    font-weight: 900;
+
+}

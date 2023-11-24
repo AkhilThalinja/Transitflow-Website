@@ -1,0 +1,23 @@
+html {
+    font-size: 62.5%;
+    font-family: Krub;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+body,
+h1,
+h2,
+p,
+ul,
+li {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #ffffff;
+}

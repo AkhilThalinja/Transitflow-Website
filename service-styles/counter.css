@@ -1,0 +1,54 @@
+.counter {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 8rem;
+    height: 10vh;
+    
+}
+
+.counter-1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+}
+
+#counter-count {
+    color: #1C1F35;
+    text-align: right;
+    font-family: Rubik;
+    font-size: 3.5rem;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+
+#yellow-box {
+    width: 1.5rem;
+}
+
+.counter-text {
+    color: #1C1F35;
+    font-family: League Spartan;
+    font-size: 1.3rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+
+.horizontal-line-sec5 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 2px;
+    width: 80vw;
+    background: linear-gradient(90deg, rgba(212, 212, 212, 0.00) 0%, #D4D4D4 51.04%, rgba(212, 212, 212, 0.00) 100%);
+}
+
+.vertical-line-sec5 {
+    height: 10vh;
+    width: 2px;
+    background: linear-gradient(90deg, rgba(212, 212, 212, 0.00) 0%, #D4D4D4 51.04%, rgba(212, 212, 212, 0.00) 100%);
+}

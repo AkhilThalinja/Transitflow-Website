@@ -1,0 +1,30 @@
+#banner-text {
+    position: absolute;
+    top: 35vh;
+    left: 17vw;
+    width: 50rem;
+}
+
+#text-1 {
+    color: #FFFFFF;
+    background: rgba(4, 28, 55, 0.50);
+    width: 8rem;
+    font-size: 1.3rem;
+    text-align: center;
+    border-style: solid;
+    border-width: 3px;
+    border-right: 0;
+    border-top: 0;
+    border-bottom: 0;
+    border-left-color: #ffb629;
+}
+
+#text-2 {
+    color: #FFF;
+    font-family: Rubik;
+    font-size: 3.3vw;
+    font-style: normal;
+    font-weight: 700;
+    padding-top: 1.5rem;
+
+}
